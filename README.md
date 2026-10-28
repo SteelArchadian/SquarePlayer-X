@@ -39,7 +39,7 @@ SquarePlayer X is a rework of **[SquarePlayer](https://github.com/Meti0X7CB/Squa
 
 What's different from the original: WebNowPlaying 3.x support (desktop and browser players), an adaptive visualizer, and fonts loaded from the skin's own folder.
 
-Made with help from Claude (an AI).
+Made with AI assistance.
 
 ## Bugs and ideas
 
